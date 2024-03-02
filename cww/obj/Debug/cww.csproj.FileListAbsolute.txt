@@ -1,0 +1,13 @@
+C:\Users\zunderz\Documents\projc#\cww\cww\bin\Debug\cww.exe.config
+C:\Users\zunderz\Documents\projc#\cww\cww\bin\Debug\cww.exe
+C:\Users\zunderz\Documents\projc#\cww\cww\bin\Debug\cww.pdb
+C:\Users\zunderz\Documents\projc#\cww\cww\obj\Debug\cww.csproj.AssemblyReference.cache
+C:\Users\zunderz\Documents\projc#\cww\cww\obj\Debug\cww.Form1.resources
+C:\Users\zunderz\Documents\projc#\cww\cww\obj\Debug\cww.Properties.Resources.resources
+C:\Users\zunderz\Documents\projc#\cww\cww\obj\Debug\cww.csproj.GenerateResource.cache
+C:\Users\zunderz\Documents\projc#\cww\cww\obj\Debug\cww.csproj.CoreCompileInputs.cache
+C:\Users\zunderz\Documents\projc#\cww\cww\obj\Debug\cww.exe
+C:\Users\zunderz\Documents\projc#\cww\cww\obj\Debug\cww.pdb
+C:\Users\zunderz\Documents\projc#\cww\cww\obj\Debug\cww.Form2.resources
+C:\Users\zunderz\Documents\projc#\cww\cww\obj\Debug\cww.Form3.resources
+C:\Users\zunderz\Documents\projc#\cww\cww\obj\Debug\cww.Form4.resources
